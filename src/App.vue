@@ -12,8 +12,6 @@
              <InputText texto="Nome do usúario"/>
               <!-- Fazer Outro Componente igual InputText Porem como  senha do usúario type dele é password exemplo type="password" e label dele vai ser sua senha aqui -->
               <!-- Aqui Vai ter um Botão usando Props Text igual InputText chamado Entrar -->
-
-               oi 
             </v-form>
           </v-card-text>
         </v-card>
