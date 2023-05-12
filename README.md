@@ -1,5 +1,7 @@
 # app
 
+<img src="./projeto.png">
+
 ## Project setup
 ```
 npm install
