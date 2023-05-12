@@ -5,6 +5,8 @@
 
 <h4>Componente do Botão >   https://v2.vuetifyjs.com/en/components/buttons/#usage</h4>
 
+<h4>Troca de Fontes >  https://vuetifyjs.com/en/styles/text-and-typography/</h4>
+
 
 
 ## Project setup
