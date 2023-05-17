@@ -5,7 +5,7 @@
       <v-col cols="12" sm="8" md="4">
         <v-card>
           <v-card-title class="justify-center">
-          <!-- Titulo do Projeto -->
+          <v-col class="text-h3 text-center"> LOGIN </v-col>
           </v-card-title>
           <v-card-text>
             <v-form >
